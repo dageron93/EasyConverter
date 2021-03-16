@@ -1,0 +1,54 @@
+<resources>
+    <!-- Название приложения -->
+    <string name="app_name">Easy converter</string>
+
+    <!-- Кнопки в главном меню -->
+    <string name="main_menu_button_length">Length</string>
+    <string name="main_menu_button_mass">Mass</string>
+    <string name="main_menu_button_temperature">Temperature</string>
+
+    <!-- Названия активностей -->
+    <string name="length_activity">Length</string>
+    <string name="mass_activity">Mass</string>
+    <string name="temperature_activity">Temperature</string>
+
+    <!-- Кнопка рассчета -->
+    <string name="button_text">Calculate</string>
+
+    <!-- Значения для спиннеров -->
+    <!-- Длинна -->
+    <string-array name="spinnerLength">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Nautical mile</item>
+    </string-array>
+
+    <!-- Масса -->
+    <string-array name="spinnerMass">
+        <item>Tonne</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Microgram</item>
+        <item>UK Hundredweight</item>
+        <item>US Hundredweight</item>
+        <item>Stone</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+
+    <!-- Температура -->
+    <string-array name="spinnerTemperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
